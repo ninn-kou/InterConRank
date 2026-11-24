@@ -1,0 +1,66 @@
+{
+  "VisPubData": {
+    "authors-unique-ext.csv": {
+      "bytes": 275838,
+      "url": "https://hauser-net.net/download/VisPubDataEtc/authors-unique-ext.csv"
+    },
+    "papers.csv": {
+      "bytes": 1023031,
+      "url": "https://hauser-net.net/download/VisPubDataEtc/papers.csv"
+    },
+    "paper-to-paper-citations.csv": {
+      "bytes": 3696010,
+      "url": "https://hauser-net.net/download/VisPubDataEtc/paper-to-paper-citations.csv"
+    }
+  },
+  "SemanticScholar": {
+    "paperIdToPaperData-1975-2015.json.gz": {
+      "bytes": 251906343,
+      "url": "https://s3-us-west-2.amazonaws.com/ai2-s2/lucaw/paperIdToPaperData-1975-2015.json.gz"
+    },
+    "citationGraph-1975-2015.json.gz": {
+      "bytes": 513952626,
+      "url": "https://s3-us-west-2.amazonaws.com/ai2-s2/lucaw/citationGraph-1975-2015.json.gz"
+    },
+    "authors-1975-2005-2015-2.tsv.gz": {
+      "bytes": 6044933,
+      "url": "https://s3-us-west-2.amazonaws.com/ai2-s2/lucaw/authors-1975-2005-2015-2.tsv.gz"
+    },
+    "paperIds-1975-2005-2015-2.tsv.gz": {
+      "bytes": 28319158,
+      "url": "https://s3-us-west-2.amazonaws.com/ai2-s2/lucaw/paperIds-1975-2005-2015-2.tsv.gz"
+    },
+    "authorResponses-1975-2005-2015-2.tsv.gz": {
+      "bytes": 6016503,
+      "url": "https://s3-us-west-2.amazonaws.com/ai2-s2/lucaw/authorResponses-1975-2005-2015-2.tsv.gz"
+    },
+    "paperResponses-1975-2005-2015-2.tsv.gz": {
+      "bytes": 3696965,
+      "url": "https://s3-us-west-2.amazonaws.com/ai2-s2/lucaw/paperResponses-1975-2005-2015-2.tsv.gz"
+    }
+  },
+  "AMiner": {
+    "AMiner-Paper.rar": {
+      "bytes": 534150263,
+      "url": "https://lfs.aminer.cn/lab-datasets/aminerdataset/AMiner-Paper.rar"
+    },
+    "AMiner-Author.zip": {
+      "bytes": 175632142,
+      "url": "https://lfs.aminer.cn/lab-datasets/aminerdataset/AMiner-Author.zip"
+    },
+    "AMiner-Coauthor.zip": {
+      "bytes": 33132081,
+      "url": "https://lfs.aminer.cn/lab-datasets/aminerdataset/AMiner-Coauthor.zip"
+    },
+    "AMiner-Author2Paper.zip": {
+      "bytes": 44063592,
+      "url": "https://lfs.aminer.cn/lab-datasets/aminerdataset/AMiner-Author2Paper.zip"
+    }
+  },
+  "DBLP_V14": {
+    "dblp_v14.tar.gz": {
+      "bytes": 6079589707,
+      "url": "https://originalfileserver.aminer.cn/misc/dblp_v14.tar.gz"
+    }
+  }
+}
